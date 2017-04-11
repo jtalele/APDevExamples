@@ -12,5 +12,6 @@
 	<classpathentry kind="src" path="src/test/munit"/>
 	<classpathentry exported="true" kind="con" path="MULE_RUNTIME/org.mule.tooling.server.3.8.3.ee"/>
 	<classpathentry kind="lib" path="/Users/Saisha/Documents/MuleTranining/APDevFundamentals3.8_studentFiles_16aug2016/jars/mysql-connector-java-5.0.8-bin.jar"/>
+	<classpathentry kind="lib" path="activemq-all-5.6.0.jar"/>
 	<classpathentry kind="output" path="target/classes"/>
 </classpath>
